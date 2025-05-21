@@ -20,7 +20,7 @@ public class atividade2 {
         }
         }
 
-        System.out.println("\nValores informados:");
+        System.out.println("Os Valores informados:");
         for (int i = 0; i < 5; i++) {
         System.out.println("Valor na posição " + i + ": " + valores[i]);
         }
